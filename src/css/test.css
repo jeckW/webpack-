@@ -1,0 +1,55 @@
+/* 垂直居中 */
+/*1 .child{
+    width:400px;
+    height: 400px;
+    background-color: red;
+}
+
+.con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #999;
+} */
+
+
+
+/*2 .con{
+    position: relative;
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #999;
+}
+
+.child{
+    width:400px;
+    height: 400px;
+    background-color: red;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+} */
+
+
+/*3 .con{
+    position: relative;
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #999;
+}
+
+.child{
+    width:400px;
+    height: 400px;
+    background-color: red;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+} */
